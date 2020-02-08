@@ -1,0 +1,19 @@
+table, th, td {
+border: 4px solid black;
+border-color:blue;
+}
+
+table {
+  border-collapse: collapse;
+  width: 100%;
+}
+
+th {
+  height: 50px;
+}
+body{
+	background-image:url('../img/img.png')
+	 background-repeat: no-repeat;
+  background-size:contain;
+  background-position:center;
+}

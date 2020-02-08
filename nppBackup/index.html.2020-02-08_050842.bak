@@ -10,10 +10,6 @@
 			<table> <!--debut du tableau-->
 			<caption>EMPLOI DU TEMPS</caption><!--titre du tableau-->
 				<thead>
-				<br>
-				<br>
-				<br>
-				<br>
 					<tr> 
 						<th>heures / jours</th>
 						<th>lundi</th>
@@ -26,7 +22,7 @@
 				</thead>	
 				<tbody>
 					<tr>
-						<th>08h00-12h00</th>
+						<td>08h00-12h00</td>
 						<td></td>
 						<td></td>
 						<td></td>
@@ -35,11 +31,11 @@
 						<td rowspan="2"></td>	
 					</tr>
 					<tr>
-						<th>12h00-13h00</th>
+						<td>12h00-13h00</td>
 						<td colspan="6">pause</td>
 					</tr>
 					<tr>
-						<th>13h00-18h00</th>
+						<td>13h00-18h00</td>
 						<td></td>
 						<td></td>
 						<td></td>
@@ -48,9 +44,6 @@
 						<td>bonne année</td>
 					</tr>
 				</tbody>
-				<div>
-					<p><b>Bonjour les apprenants de l'ecole 241</B></p> 
-				</div>
 				<tfoot> 
 					<tr>
 						<th>heures / jours</th>
